@@ -2,3 +2,6 @@
 
 # User-specific stuff
 .idea/
+
+### Jira Data Directory ###
+/data/ThePublicJiraDataset/

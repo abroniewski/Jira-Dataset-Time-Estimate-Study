@@ -7,8 +7,7 @@ This project's working branch is `main`, and it has the following directory stru
 ```
 [REPOSITORY-Name]
 	├── LICENSE.md
-	├── Pipfile
-	├── Pipfile.lock
+	├── requiremnets.txt
 	├── README.md
 	├── data
 	│   ├── raw

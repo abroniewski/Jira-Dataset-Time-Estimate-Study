@@ -5,3 +5,5 @@
 
 ### Jira Data Directory ###
 /data/ThePublicJiraDataset/
+
+*.DS_Store

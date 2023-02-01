@@ -6,6 +6,6 @@
 ### Jira Data Directory ###
 /data/ThePublicJiraDataset/
 
-*.DS_Store
+.DS_Store
 
 data/processed/raw_data_v2.csv
